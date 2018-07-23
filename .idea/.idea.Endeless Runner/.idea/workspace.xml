@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23eb83af-a619-416b-8aa2-022b9b5972f1" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Endeless Runner/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Endeless Runner/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Endeless Runner/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Endeless Runner/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Endeless Runner/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Endeless Runner/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Annimations.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Annimations/Player.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Annimations/Player.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Annimations/PlayerAnnimation.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Annimations/PlayerAnnimation.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Bridge_Large.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Bridge_Large.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Bridge_Small.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Bridge_Small.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Grass.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Grass.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground01.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground01.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground02.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground02.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground03.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground03.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground04.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground04.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground05.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground05.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground06.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground06.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground07.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground07.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground08.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground08.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/GroundBlock.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/GroundBlock.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/GroundIsland.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/GroundIsland.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Hurdle01.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Hurdle01.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Hurdle02.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Hurdle02.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Hurdle03.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Hurdle03.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Mat_Sky.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Mat_Sky.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_Fence.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_Fence.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_Fence.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_Fence.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_Ground.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_Ground.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_Ground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_Ground.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_PalmTree.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_PalmTree.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_PalmTree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_PalmTree.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_Wave.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_Wave.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_Wave.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_Wave.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/sky_BK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/sky_BK.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/sky_DN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/sky_DN.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/sky_FR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/sky_FR.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/sky_LF.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/sky_LF.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/sky_RT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/sky_RT.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/sky_UP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/sky_UP.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/PalmTree.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/PalmTree.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Bridge_Large.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Bridge_Large.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Bridge_Small.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Bridge_Small.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Grass Road.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Grass Road.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Grass.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Grass.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground01.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground01.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground02.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground02.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground03.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground03.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground04.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground04.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground05.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground05.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground06.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground06.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground07.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground07.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground08.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground08.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/GroundBlock.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/GroundBlock.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/GroundIsland.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/GroundIsland.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Hurdle01.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Hurdle01.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Hurdle02.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Hurdle02.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Hurdle03.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Hurdle03.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/PalmTree.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/PalmTree.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Wave.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Wave.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Scene_GrassRoadRace.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Scene_GrassRoadRace.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Script.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Script/CameraMove.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Script/CameraMove.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Wave.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Wave.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/ZeroFriction.physicMaterial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/ZeroFriction.physicMaterial.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Annimation.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Annimation/Player.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Annimation/Player.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Annimation/PlayerAnnimation.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Annimation/PlayerAnnimation.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Body_Diffuse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Body_Diffuse.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Body_Gloss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Body_Gloss.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Body_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Body_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Body_Opacity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Body_Opacity.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Body_Specular.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Body_Specular.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Bottom_Diffuse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Bottom_Diffuse.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Bottom_Gloss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Bottom_Gloss.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Bottom_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Bottom_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Bottom_Opacity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Bottom_Opacity.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Bottom_Specular.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Bottom_Specular.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Hair_Diffuse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Hair_Diffuse.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Hair_Gloss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Hair_Gloss.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Hair_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Hair_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Hair_Opacity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Hair_Opacity.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Hair_Specular.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Hair_Specular.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Shoes_Diffuse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Shoes_Diffuse.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Shoes_Gloss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Shoes_Gloss.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Shoes_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Shoes_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Shoes_Opacity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Shoes_Opacity.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Shoes_Specular.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Shoes_Specular.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Top_Diffuse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Top_Diffuse.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Top_Gloss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Top_Gloss.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Top_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Top_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Top_Opacity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Top_Opacity.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Top_Specular.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Top_Specular.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Materials/Jasper_Body_Diffuse.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Materials/Jasper_Body_Diffuse.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Materials/Jasper_Bottom_Diffuse.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Materials/Jasper_Bottom_Diffuse.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Materials/Jasper_Hair_Diffuse.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Materials/Jasper_Hair_Diffuse.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Materials/Jasper_Shoes_Diffuse.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Materials/Jasper_Shoes_Diffuse.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Materials/Jasper_Top_Diffuse.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Materials/Jasper_Top_Diffuse.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/jumping.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/jumping.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/running.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/running.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/EndlessRunnerGame.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/EndlessRunnerGame.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CameraController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jasper.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jasper/Jasper.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jasper/jumping.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jasper/running_inPlace.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/NetworkManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="PlayerController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+              <folding>
+                <marker date="1532370244106" expanded="true" signature="65:1181" ph="{...}" />
+                <marker date="1532370244106" expanded="true" signature="343:546" ph="{...}" />
+                <marker date="1532370244106" expanded="true" signature="573:767" ph="{...}" />
+                <marker date="1532370244106" expanded="true" signature="620:761" ph="{...}" />
+                <marker date="1532370244106" expanded="true" signature="798:915" ph="{...}" />
+                <marker date="1532370244106" expanded="true" signature="950:1179" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CameraController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <marker date="1532370244101" expanded="true" signature="65:332" ph="{...}" />
+                <marker date="1532370244101" expanded="true" signature="147:224" ph="{...}" />
+                <marker date="1532370244101" expanded="true" signature="252:329" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="130" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Endeless Runner (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Endeless Runner (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Endeless Runner (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Endeless Runner" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="do_not_show_unity_auto_save_notification" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23eb83af-a619-416b-8aa2-022b9b5972f1" name="Default" comment="" />
+      <created>1531069272982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531069272982</updated>
+      <workItem from="1531069279735" duration="3836000" />
+      <workItem from="1531416989519" duration="1999000" />
+      <workItem from="1531420902298" duration="688000" />
+      <workItem from="1531685965244" duration="611000" />
+      <workItem from="1532198986779" duration="12000" />
+      <workItem from="1532199017910" duration="5085000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12231000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49891067" visible="true" weight="0.13859275" />
+      <window_info anchor="bottom" id="Unity" order="7" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" sideWeight="0.50108933" side_tool="true" weight="0.13859275" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <marker date="1532370244106" expanded="true" signature="65:1181" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="343:546" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="573:767" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="620:761" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="798:915" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="950:1179" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <marker date="1532370244101" expanded="true" signature="65:332" ph="{...}" />
+            <marker date="1532370244101" expanded="true" signature="147:224" ph="{...}" />
+            <marker date="1532370244101" expanded="true" signature="252:329" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <marker date="1532370244106" expanded="true" signature="65:1181" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="343:546" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="573:767" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="620:761" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="798:915" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="950:1179" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <marker date="1532370244101" expanded="true" signature="65:332" ph="{...}" />
+            <marker date="1532370244101" expanded="true" signature="147:224" ph="{...}" />
+            <marker date="1532370244101" expanded="true" signature="252:329" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <marker date="1532370244106" expanded="true" signature="65:1181" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="343:546" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="573:767" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="620:761" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="798:915" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="950:1179" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <marker date="1532370244101" expanded="true" signature="65:332" ph="{...}" />
+            <marker date="1532370244101" expanded="true" signature="147:224" ph="{...}" />
+            <marker date="1532370244101" expanded="true" signature="252:329" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <marker date="1532370244106" expanded="true" signature="65:1181" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="343:546" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="573:767" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="620:761" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="798:915" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="950:1179" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <marker date="1532370244101" expanded="true" signature="65:332" ph="{...}" />
+            <marker date="1532370244101" expanded="true" signature="147:224" ph="{...}" />
+            <marker date="1532370244101" expanded="true" signature="252:329" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+          <folding>
+            <marker date="1532370244106" expanded="true" signature="65:1181" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="343:546" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="573:767" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="620:761" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="798:915" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="950:1179" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <marker date="1532370244101" expanded="true" signature="65:332" ph="{...}" />
+            <marker date="1532370244101" expanded="true" signature="147:224" ph="{...}" />
+            <marker date="1532370244101" expanded="true" signature="252:329" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <marker date="1532370244101" expanded="true" signature="65:332" ph="{...}" />
+            <marker date="1532370244101" expanded="true" signature="147:224" ph="{...}" />
+            <marker date="1532370244101" expanded="true" signature="252:329" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+          <folding>
+            <marker date="1532370244106" expanded="true" signature="65:1181" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="343:546" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="573:767" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="620:761" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="798:915" ph="{...}" />
+            <marker date="1532370244106" expanded="true" signature="950:1179" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
