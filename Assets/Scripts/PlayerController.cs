@@ -2,46 +2,44 @@
 
 public class PlayerController : MonoBehaviour
 {
+    public float speed;
 
-    private Rigidbody _rigidbody;
-    private Animator _jumpringAnnAnimation;
-    private Vector3 _lastPosition;
-    private float lenghtOfPlatform = 7.6f;
+    private CharacterController _characterController;
+    private Vector3 _playerMovement;
+    private float _verticalVelocity = 0.0f;
+    private float gravity = 12.0f;
+    private float annimationDuration = 3.0f;
 
-
-    public float Speed;
-    public GameObject gamePlatform;
-    public Transform firstGround;
-    
 
     void Start()
     {
-        _jumpringAnnAnimation = GetComponent<Animator>();
-        MovePlayer();
-        _lastPosition = firstGround.transform.position;
-        InvokeRepeating("SpwaningGround", 0.0f, 0.5f);
+        _characterController = GetComponent<CharacterController>();
     }
 
     private void Update()
     {
-        if (Input.GetMouseButtonDown(0))
+        if (Time.time < annimationDuration)
         {
-            _rigidbody.AddForce(0f, 4f, 0f, ForceMode.Impulse);
-            _jumpringAnnAnimation.Play("PlayerJumping");
+            _characterController.Move(Vector3.forward * speed * Time.deltaTime);
         }
-    }
+        else
+        {
+            _playerMovement = Vector3.zero; // Refreshing every time
 
-    private void MovePlayer()
-    {
-        _rigidbody = GetComponent<Rigidbody>();
-        _rigidbody.velocity = transform.forward * Speed;
-    }
+            if (_characterController.isGrounded)
+            {
+                _verticalVelocity = -gravity;
+            }
+            else
+            {
+                _verticalVelocity -= gravity * Time.deltaTime;
+            }
 
-    private void SpwaningGround()
-    {
-        GameObject grassGround = Instantiate(gamePlatform);
-        grassGround.transform.position = _lastPosition + new Vector3(0.0f, 0.0f, lenghtOfPlatform);
-        _lastPosition = grassGround.transform.position;
+            _playerMovement.x = Input.GetAxisRaw("Horizontal") * speed;
+            _playerMovement.y = _verticalVelocity;
+            _playerMovement.z = speed;
 
+            _characterController.Move(_playerMovement * Time.deltaTime);
+        }
     }
 }

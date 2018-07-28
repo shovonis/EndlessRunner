@@ -2,244 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23eb83af-a619-416b-8aa2-022b9b5972f1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Endeless Runner/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Endeless Runner/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Endeless Runner/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Endeless Runner/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Endeless Runner/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Endeless Runner/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Annimations.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Annimations/Player.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Annimations/Player.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Annimations/PlayerAnnimation.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Annimations/PlayerAnnimation.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Bridge_Large.FBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Bridge_Large.FBX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Bridge_Small.FBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Bridge_Small.FBX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Grass.FBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Grass.FBX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground01.FBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground01.FBX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground02.FBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground02.FBX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground03.FBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground03.FBX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground04.FBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground04.FBX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground05.FBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground05.FBX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground06.FBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground06.FBX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground07.FBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground07.FBX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground08.FBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Ground08.FBX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/GroundBlock.FBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/GroundBlock.FBX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/GroundIsland.FBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/GroundIsland.FBX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Hurdle01.FBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Hurdle01.FBX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Hurdle02.FBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Hurdle02.FBX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Hurdle03.FBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Hurdle03.FBX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Mat_Sky.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Mat_Sky.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_Fence.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_Fence.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_Fence.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_Fence.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_Ground.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_Ground.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_Ground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_Ground.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_PalmTree.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_PalmTree.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_PalmTree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_PalmTree.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_Wave.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_Wave.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_Wave.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_Wave.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/sky_BK.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/sky_BK.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/sky_DN.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/sky_DN.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/sky_FR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/sky_FR.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/sky_LF.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/sky_LF.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/sky_RT.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/sky_RT.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/sky_UP.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/sky_UP.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/PalmTree.FBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/PalmTree.FBX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Bridge_Large.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Bridge_Large.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Bridge_Small.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Bridge_Small.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Grass Road.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Grass Road.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Grass.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Grass.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground01.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground01.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground02.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground02.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground03.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground03.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground04.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground04.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground05.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground05.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground06.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground06.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground07.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground07.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground08.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Ground08.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/GroundBlock.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/GroundBlock.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/GroundIsland.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/GroundIsland.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Hurdle01.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Hurdle01.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Hurdle02.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Hurdle02.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Hurdle03.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Hurdle03.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/PalmTree.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/PalmTree.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Wave.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Prefab/Wave.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Scene_GrassRoadRace.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Scene_GrassRoadRace.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Script.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Script/CameraMove.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Script/CameraMove.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Wave.FBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Wave.FBX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/ZeroFriction.physicMaterial" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/ZeroFriction.physicMaterial.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Annimation.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Annimation/Player.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Annimation/Player.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Annimation/PlayerAnnimation.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Annimation/PlayerAnnimation.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Body_Diffuse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Body_Diffuse.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Body_Gloss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Body_Gloss.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Body_Normal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Body_Normal.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Body_Opacity.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Body_Opacity.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Body_Specular.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Body_Specular.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Bottom_Diffuse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Bottom_Diffuse.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Bottom_Gloss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Bottom_Gloss.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Bottom_Normal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Bottom_Normal.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Bottom_Opacity.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Bottom_Opacity.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Bottom_Specular.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Bottom_Specular.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Hair_Diffuse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Hair_Diffuse.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Hair_Gloss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Hair_Gloss.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Hair_Normal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Hair_Normal.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Hair_Opacity.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Hair_Opacity.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Hair_Specular.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Hair_Specular.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Shoes_Diffuse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Shoes_Diffuse.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Shoes_Gloss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Shoes_Gloss.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Shoes_Normal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Shoes_Normal.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Shoes_Opacity.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Shoes_Opacity.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Shoes_Specular.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Shoes_Specular.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Top_Diffuse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Top_Diffuse.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Top_Gloss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Top_Gloss.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Top_Normal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Top_Normal.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Top_Opacity.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Top_Opacity.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Top_Specular.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbm/Jasper_Top_Specular.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Jasper.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Materials/Jasper_Body_Diffuse.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Materials/Jasper_Body_Diffuse.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Materials/Jasper_Bottom_Diffuse.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Materials/Jasper_Bottom_Diffuse.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Materials/Jasper_Hair_Diffuse.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Materials/Jasper_Hair_Diffuse.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Materials/Jasper_Shoes_Diffuse.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Materials/Jasper_Shoes_Diffuse.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Materials/Jasper_Top_Diffuse.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/Materials/Jasper_Top_Diffuse.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/jumping.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/jumping.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/running.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Player/running.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/EndlessRunnerGame.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/EndlessRunnerGame.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CameraController.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jasper.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jasper/Jasper.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jasper/jumping.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jasper/running_inPlace.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/NetworkManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Endeless Runner/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Endeless Runner/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Endeless Runner/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Endeless Runner/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_Wave.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Materials/Tex_Wave.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/EndlessRunnerGame.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/EndlessRunnerGame.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -250,18 +18,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PlayerController.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PlayerController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+            <state relative-caret-position="252">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
               <folding>
-                <marker date="1532370244106" expanded="true" signature="65:1181" ph="{...}" />
-                <marker date="1532370244106" expanded="true" signature="343:546" ph="{...}" />
-                <marker date="1532370244106" expanded="true" signature="573:767" ph="{...}" />
-                <marker date="1532370244106" expanded="true" signature="620:761" ph="{...}" />
-                <marker date="1532370244106" expanded="true" signature="798:915" ph="{...}" />
-                <marker date="1532370244106" expanded="true" signature="950:1179" ph="{...}" />
+                <marker date="1532711339710" expanded="true" signature="65:1163" ph="{...}" />
+                <marker date="1532711339710" expanded="true" signature="326:406" ph="{...}" />
+                <marker date="1532711339710" expanded="true" signature="433:1161" ph="{...}" />
+                <marker date="1532711339710" expanded="true" signature="483:584" ph="{...}" />
+                <marker date="1532711339710" expanded="true" signature="597:1155" ph="{...}" />
+                <marker date="1532711339710" expanded="true" signature="726:800" ph="{...}" />
+                <marker date="1532711339710" expanded="true" signature="817:908" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -270,12 +39,40 @@
       <file leaf-file-name="CameraController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="612">
+              <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
               <folding>
-                <marker date="1532370244101" expanded="true" signature="65:332" ph="{...}" />
-                <marker date="1532370244101" expanded="true" signature="147:224" ph="{...}" />
-                <marker date="1532370244101" expanded="true" signature="252:329" ph="{...}" />
+                <marker date="1532456382702" expanded="true" signature="65:938" ph="{...}" />
+                <marker date="1532456382702" expanded="true" signature="320:397" ph="{...}" />
+                <marker date="1532456382702" expanded="true" signature="420:936" ph="{...}" />
+                <marker date="1532456382702" expanded="true" signature="597:662" ph="{...}" />
+                <marker date="1532456382702" expanded="true" signature="675:930" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GrassManager.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/GrassManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+              <folding>
+                <marker date="1532721689170" expanded="true" signature="6:52" ph="..." />
+                <marker date="1532721689170" expanded="true" signature="95:1998" ph="{...}" />
+                <marker date="1532721689170" expanded="true" signature="427:800" ph="{...}" />
+                <marker date="1532721689170" expanded="true" signature="616:794" ph="{...}" />
+                <marker date="1532721689170" expanded="true" signature="649:708" ph="{...}" />
+                <marker date="1532721689170" expanded="true" signature="725:783" ph="{...}" />
+                <marker date="1532721689170" expanded="true" signature="819:1002" ph="{...}" />
+                <marker date="1532721689170" expanded="true" signature="923:996" ph="{...}" />
+                <marker date="1532721689170" expanded="true" signature="1053:1499" ph="{...}" />
+                <marker date="1532721689170" expanded="true" signature="1120:1219" ph="{...}" />
+                <marker date="1532721689170" expanded="true" signature="1232:1310" ph="{...}" />
+                <marker date="1532721689170" expanded="true" signature="1531:1609" ph="{...}" />
+                <marker date="1532721689170" expanded="true" signature="1649:1996" ph="{...}" />
+                <marker date="1532721689170" expanded="true" signature="1697:1739" ph="{...}" />
+                <marker date="1532721689170" expanded="true" signature="1830:1918" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -287,6 +84,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GrassManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C53FD6A3-0F3A-48DF-8726-A5828F86721F/c2/63e53be7/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -295,6 +94,7 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GrassManager.cs" />
       </list>
     </option>
   </component>
@@ -319,6 +119,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Endeless Runner" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -343,19 +156,6 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="UnityExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Endeless Runner" type="483dac07:UnityExplorerNode$Root" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <option name="show-hidden-items" value="false" />
-      </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -397,12 +197,15 @@
       <workItem from="1531420902298" duration="688000" />
       <workItem from="1531685965244" duration="611000" />
       <workItem from="1532198986779" duration="12000" />
-      <workItem from="1532199017910" duration="5085000" />
+      <workItem from="1532199017910" duration="8119000" />
+      <workItem from="1532452911297" duration="6601000" />
+      <workItem from="1532627676130" duration="599000" />
+      <workItem from="1532628849594" duration="8639000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12231000" />
+    <option name="totallyTimeSpent" value="31104000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -415,6 +218,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -424,14 +228,14 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49891067" visible="true" weight="0.13859275" />
-      <window_info anchor="bottom" id="Unity" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49891067" visible="true" weight="0.1433902" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.50108933" side_tool="true" weight="0.13859275" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -451,27 +255,90 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        <state relative-caret-position="612">
+          <caret line="34" column="62" selection-start-line="34" selection-start-column="62" selection-end-line="34" selection-end-column="62" />
           <folding>
-            <marker date="1532370244106" expanded="true" signature="65:1181" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="343:546" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="573:767" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="620:761" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="798:915" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="950:1179" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="65:1163" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="326:406" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="433:1161" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="483:584" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="597:1155" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="726:800" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="817:908" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
+        <state relative-caret-position="162">
+          <caret line="9" selection-start-line="9" selection-end-line="10" />
+          <folding>
+            <marker date="1532456382702" expanded="true" signature="65:938" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="320:397" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="420:936" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="597:662" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="675:930" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" column="62" lean-forward="true" selection-start-line="34" selection-start-column="62" selection-end-line="34" selection-end-column="62" />
+          <folding>
+            <marker date="1532711339710" expanded="true" signature="65:1163" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="326:406" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="433:1161" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="483:584" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="597:1155" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="726:800" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="817:908" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" selection-start-line="9" selection-end-line="10" />
+          <folding>
+            <marker date="1532456382702" expanded="true" signature="65:938" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="320:397" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="420:936" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="597:662" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="675:930" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+          <folding>
+            <marker date="1532711339710" expanded="true" signature="65:1163" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="326:406" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="433:1161" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="483:584" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="597:1155" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="726:800" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="817:908" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
-            <marker date="1532370244101" expanded="true" signature="65:332" ph="{...}" />
-            <marker date="1532370244101" expanded="true" signature="147:224" ph="{...}" />
-            <marker date="1532370244101" expanded="true" signature="252:329" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="65:938" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="320:397" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="420:936" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="597:662" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="675:930" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -481,12 +348,13 @@
         <state relative-caret-position="493">
           <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
           <folding>
-            <marker date="1532370244106" expanded="true" signature="65:1181" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="343:546" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="573:767" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="620:761" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="798:915" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="950:1179" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="65:1163" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="326:406" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="433:1161" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="483:584" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="597:1155" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="726:800" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="817:908" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -496,9 +364,41 @@
         <state relative-caret-position="323">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
-            <marker date="1532370244101" expanded="true" signature="65:332" ph="{...}" />
-            <marker date="1532370244101" expanded="true" signature="147:224" ph="{...}" />
-            <marker date="1532370244101" expanded="true" signature="252:329" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="65:938" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="320:397" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="420:936" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="597:662" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="675:930" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <marker date="1532711339710" expanded="true" signature="65:1163" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="326:406" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="433:1161" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="483:584" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="597:1155" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="726:800" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="817:908" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <marker date="1532456382702" expanded="true" signature="65:938" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="320:397" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="420:936" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="597:662" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="675:930" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -508,12 +408,13 @@
         <state relative-caret-position="493">
           <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
           <folding>
-            <marker date="1532370244106" expanded="true" signature="65:1181" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="343:546" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="573:767" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="620:761" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="798:915" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="950:1179" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="65:1163" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="326:406" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="433:1161" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="483:584" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="597:1155" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="726:800" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="817:908" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -523,9 +424,11 @@
         <state relative-caret-position="323">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
-            <marker date="1532370244101" expanded="true" signature="65:332" ph="{...}" />
-            <marker date="1532370244101" expanded="true" signature="147:224" ph="{...}" />
-            <marker date="1532370244101" expanded="true" signature="252:329" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="65:938" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="320:397" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="420:936" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="597:662" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="675:930" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -535,12 +438,13 @@
         <state relative-caret-position="580">
           <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
           <folding>
-            <marker date="1532370244106" expanded="true" signature="65:1181" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="343:546" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="573:767" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="620:761" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="798:915" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="950:1179" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="65:1163" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="326:406" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="433:1161" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="483:584" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="597:1155" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="726:800" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="817:908" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -550,9 +454,11 @@
         <state relative-caret-position="380">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
-            <marker date="1532370244101" expanded="true" signature="65:332" ph="{...}" />
-            <marker date="1532370244101" expanded="true" signature="147:224" ph="{...}" />
-            <marker date="1532370244101" expanded="true" signature="252:329" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="65:938" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="320:397" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="420:936" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="597:662" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="675:930" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -562,12 +468,13 @@
         <state relative-caret-position="340">
           <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
           <folding>
-            <marker date="1532370244106" expanded="true" signature="65:1181" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="343:546" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="573:767" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="620:761" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="798:915" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="950:1179" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="65:1163" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="326:406" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="433:1161" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="483:584" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="597:1155" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="726:800" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="817:908" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -577,39 +484,73 @@
         <state relative-caret-position="380">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
-            <marker date="1532370244101" expanded="true" signature="65:332" ph="{...}" />
-            <marker date="1532370244101" expanded="true" signature="147:224" ph="{...}" />
-            <marker date="1532370244101" expanded="true" signature="252:329" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="65:938" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="320:397" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="420:936" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="597:662" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="675:930" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/.gitignore" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C53FD6A3-0F3A-48DF-8726-A5828F86721F/c2/63e53be7/Vector3.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="145" column="26" selection-start-line="145" selection-start-column="26" selection-end-line="145" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="612">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
           <folding>
-            <marker date="1532370244101" expanded="true" signature="65:332" ph="{...}" />
-            <marker date="1532370244101" expanded="true" signature="147:224" ph="{...}" />
-            <marker date="1532370244101" expanded="true" signature="252:329" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="65:938" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="320:397" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="420:936" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="597:662" ph="{...}" />
+            <marker date="1532456382702" expanded="true" signature="675:930" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+        <state relative-caret-position="252">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding>
-            <marker date="1532370244106" expanded="true" signature="65:1181" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="343:546" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="573:767" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="620:761" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="798:915" ph="{...}" />
-            <marker date="1532370244106" expanded="true" signature="950:1179" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="65:1163" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="326:406" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="433:1161" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="483:584" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="597:1155" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="726:800" ph="{...}" />
+            <marker date="1532711339710" expanded="true" signature="817:908" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GrassManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <marker date="1532721689170" expanded="true" signature="6:52" ph="..." />
+            <marker date="1532721689170" expanded="true" signature="95:1998" ph="{...}" />
+            <marker date="1532721689170" expanded="true" signature="427:800" ph="{...}" />
+            <marker date="1532721689170" expanded="true" signature="616:794" ph="{...}" />
+            <marker date="1532721689170" expanded="true" signature="649:708" ph="{...}" />
+            <marker date="1532721689170" expanded="true" signature="725:783" ph="{...}" />
+            <marker date="1532721689170" expanded="true" signature="819:1002" ph="{...}" />
+            <marker date="1532721689170" expanded="true" signature="923:996" ph="{...}" />
+            <marker date="1532721689170" expanded="true" signature="1053:1499" ph="{...}" />
+            <marker date="1532721689170" expanded="true" signature="1120:1219" ph="{...}" />
+            <marker date="1532721689170" expanded="true" signature="1232:1310" ph="{...}" />
+            <marker date="1532721689170" expanded="true" signature="1531:1609" ph="{...}" />
+            <marker date="1532721689170" expanded="true" signature="1649:1996" ph="{...}" />
+            <marker date="1532721689170" expanded="true" signature="1697:1739" ph="{...}" />
+            <marker date="1532721689170" expanded="true" signature="1830:1918" ph="{...}" />
           </folding>
         </state>
       </provider>
