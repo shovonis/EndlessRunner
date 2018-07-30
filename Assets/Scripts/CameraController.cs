@@ -6,7 +6,7 @@ public class CameraController : MonoBehaviour
     private Vector3 offset;
     private Vector3 moveVector;
 
-    private float transition = 0.0f;
+    private float transition;
     private float annimationDuration = 3.0f;
     private Vector3 annimationOffset = new Vector3(0, 4, 5);
 

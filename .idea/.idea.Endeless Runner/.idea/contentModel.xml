@@ -14,6 +14,7 @@
           <e p="CameraController.cs" t="Include" />
           <e p="GrassManager.cs" t="Include" />
           <e p="PlayerController.cs" t="Include" />
+          <e p="ScoreManager.cs" t="Include" />
         </e>
       </e>
       <e p="Endeless Runner.sln" t="IncludeFlat" />

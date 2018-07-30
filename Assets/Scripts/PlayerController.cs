@@ -6,7 +6,7 @@ public class PlayerController : MonoBehaviour
 
     private CharacterController _characterController;
     private Vector3 _playerMovement;
-    private float _verticalVelocity = 0.0f;
+    private float _verticalVelocity;
     private float gravity = 12.0f;
     private float annimationDuration = 3.0f;
 
@@ -41,5 +41,10 @@ public class PlayerController : MonoBehaviour
 
             _characterController.Move(_playerMovement * Time.deltaTime);
         }
+    }
+
+    public void SetPlayerSpeed(int delta)
+    {
+        speed = speed + delta;
     }
 }
