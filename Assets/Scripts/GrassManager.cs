@@ -11,7 +11,7 @@ public class GrassManager : MonoBehaviour
     private Transform playerTransform;
 
     private float spwanZ = -7.6f;
-    private float grassLength = 7.6f;
+    private float grassLength = 7.5f;
     private int numberOfGrassOnScreen = 8;
     private int numberOfActiveWaveOnScreen = 2;
     private float safeZone = 12.0f;
@@ -36,7 +36,7 @@ public class GrassManager : MonoBehaviour
 
         for (int i = 0; i < numberOfGrassOnScreen; i++)
         {
-            if (i < 5)
+            if (i < 6)
             {
                 SpwanGrass(0);
             }
